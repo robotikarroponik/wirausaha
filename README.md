@@ -15,7 +15,7 @@ ER
 
 <div class="jumbotron text-center">
   <h1>wirausahaan</h1>
-  <p>Fakultas Ekonomi dan Bisnis!</p> 
+  <p>FANTEK!</p> 
 </div>
   
 <div class="container">
