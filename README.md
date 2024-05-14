@@ -15,7 +15,7 @@ ER
 
 <div class="jumbotron text-center">
   <h1>wirausahaan</h1>
-  <p>FANTEK!</p> 
+  <p>JINGGA</p> 
 </div>
   
 <div class="container">
